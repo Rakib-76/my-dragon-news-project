@@ -1,12 +1,33 @@
-# React + Vite
+# Dragon News - Breaking News Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Dragon News](https://i.postimg.cc/cL9MJzJK/dragon-news.png)
 
-Currently, two official plugins are available:
+## Project Overview  
+Dragon News is a modern, responsive news website that delivers the latest headlines across various categories. Built to provide users with quick access to breaking news, this project features user authentication and a clean, intuitive UI.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Live Demo  
+[https://ragon-news-breaking.web.app/category/1](https://ragon-news-breaking.web.app/category/1)
 
-## Expanding the ESLint configuration
+## Main Technologies Used  
+- **JavaScript** (ES6+)  
+- **React.js**  
+- **Tailwind CSS**  
+- **Firebase Authentication**  
+- **React Router**  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Core Features  
+- Dynamic news listing by category  
+- Responsive design for seamless browsing on all devices  
+- User authentication with Firebase for secure login/signup  
+- Clean UI built with Tailwind CSS for fast loading and great aesthetics  
+- Easy navigation with React Router  
+
+## Dependencies  
+- react  
+- react-dom  
+- react-router-dom  
+- firebase  
+- tailwindcss  
+- @heroicons/react (for icons)  
+
+## Running the Project Locally  
